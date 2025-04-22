@@ -1,3 +1,4 @@
+#adicionando itens no arquivo lista
 frutas=['uva','pera','caqui','coco']
 print(frutas)
 ins = input('Adicione outro item: ')
